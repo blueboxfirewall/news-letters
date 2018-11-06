@@ -1,5 +1,49 @@
 body {
-    margin: 25px 590px;
+    margin: auto;
+    width: 830px;
     font-size: 20px;
     font-family: sans-serif;
-    }
+    color:#979797;
+    background-color: #f1fcff;
+}
+h3 {
+	text-align: center;
+	color: #00b0d4;
+	text-decoration: underline;
+}
+h4 {
+	color: #00b0d4 ;
+}
+.blue-text {
+	color: #00b0d4;
+}
+.nav-top {
+	display: inline-block;
+	width: 100%;
+}
+.logo {
+	float: left;
+}
+.line {
+	float: right;
+    display: inline-block;
+    padding-top: 84px;
+    padding-bottom: 9px;
+    border-bottom: 3px solid #00b0d4;
+    text-align: right;
+    width: 64%;
+    box-shadow: 0 12px 5px -8px #979797;
+}
+.line a {
+    padding: 6px;
+    font-size: 20px;
+}
+.caption {
+	font-size: 15px;
+	font-weight: bold;
+	font-style: italic;
+}
+.text-align {
+	text-align: left;
+}
+
